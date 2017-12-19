@@ -4,7 +4,8 @@ Chatbot experiment
 ## Links
 Various useful links for building a Facebook Chat robot
 
-https://developers.facebook.com/docs/messenger-platform
+https://developers.facebook.com/docs/messenger-platform  
+https://github.com/conbus/fbmq  
 https://github.com/carpedm20/fbchat  
 https://github.com/davidchua/pymessenger (build failing)  
 https://github.com/geeknam/messengerbot  
