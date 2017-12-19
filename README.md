@@ -1,2 +1,2 @@
-# silver-robot
+# Silver Robot
 Chatbot experiment
